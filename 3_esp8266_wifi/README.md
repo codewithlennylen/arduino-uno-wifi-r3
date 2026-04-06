@@ -102,3 +102,5 @@ For the common Uno WiFi R3 clone programming mode:
 - After upload, set DIP switch **7 OFF** so the sketch can boot normally after reset.
 
 ## Sample Output
+
+<img width="341" height="107" alt="image" src="https://github.com/user-attachments/assets/604d1f14-f2f3-41d2-8d02-c4aff59d1ea9" />
