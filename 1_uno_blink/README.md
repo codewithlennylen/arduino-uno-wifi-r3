@@ -73,6 +73,7 @@ If your board is an Uno WiFi R3 clone with DIP switches and separate USB interfa
 - Select the correct serial/COM port before upload
 - If upload stalls at the beginning, press the board reset button once, then retry
 
-## Expected Behavior
+## Reference
 
-After a successful upload, the onboard LED should blink continuously at 1 Hz.
+<img width="1920" height="1080" alt="Screenshot from 2026-04-02 23-36-26" src="https://github.com/user-attachments/assets/68daa807-4cb1-457e-b821-edf5c12abc60" />
+
