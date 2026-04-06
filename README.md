@@ -1,5 +1,7 @@
 # Arduino Uno Wifi R3 (ESP8266)
 
+<img width="1920" height="1080" alt="Screenshot from 2026-04-02 23-31-08" src="https://github.com/user-attachments/assets/9e8f5dc1-1981-417c-80f9-9796ce95d956" />
+
 Arduino UNO WiFi R3 examples and tasks for the ATmega328P (UNO side) and ESP8266 (Wi-Fi side), organized as step-by-step PlatformIO projects.
 
 ## Workspace Overview
@@ -61,3 +63,16 @@ arduino-uno-wifi-r3/
 - These projects target common UNO WiFi R3 clone boards with CH340G and 8-way DIP switches.
 - DIP-switch programming/runtime modes are documented in each project README.
 - Keep serial baud rates aligned between UNO and ESP8266 when using the integrated project.
+
+### 8-way DIP switch guide
+
+<img width="1920" height="1080" alt="Screenshot from 2026-04-02 23-32-01" src="https://github.com/user-attachments/assets/4c1f0aed-5b8a-4dfc-978c-f13615bda5a4" />
+
+<img width="1920" height="1080" alt="Screenshot from 2026-04-02 23-34-12" src="https://github.com/user-attachments/assets/68212c06-3bc5-4b3b-a023-ae3bf8e7abe0" />
+
+<img width="1920" height="1080" alt="Screenshot from 2026-04-02 23-34-43" src="https://github.com/user-attachments/assets/a06bc5c5-1b97-4e35-aba2-1d6b14029ff6" />
+
+
+## Reference Tutorial
+
+[UNO+WiFi R3 ATmega328P + ESP8266 Module 32Mb Memory USB TTL CH340G ❤❤ Easy Tutorial Step By Step ❤❤](https://youtu.be/AM83Q5dXVwI?list=TLPQMDQwNDIwMjZm97ak_Lv49g)
