@@ -11,6 +11,10 @@
       "name": "2_esp8266_blink",
       "path": "2_esp8266_blink",
     },
+    {
+      "name": "3_esp8266_wifi",
+      "path": "3_esp8266_wifi",
+    },
   ],
   "settings": {
     "ROS2.distro": "jazzy",
