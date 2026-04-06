@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "path": ".",
+    },
+    {
+      "name": "1_uno_blink",
+      "path": "1_uno_blink",
+    },
+  ],
+  "settings": {
+    "ROS2.distro": "jazzy",
+    "python.autoComplete.extraPaths": [
+      "/opt/ros/jazzy/lib/python3.12/site-packages",
+    ],
+    "python.analysis.extraPaths": [
+      "/opt/ros/jazzy/lib/python3.12/site-packages",
+    ],
+  },
+}
