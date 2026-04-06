@@ -74,6 +74,6 @@ For boards with ATmega328P + ESP8266 and DIP switches:
 - Press reset before uploading if needed.
 - After upload, set DIP switch **7 OFF** so the sketch persists across reboot.
 
-## Expected Behavior
+## Reference
 
-After successful upload, the LED on ESP8266 GPIO2 should blink continuously.
+<img width="1920" height="1080" alt="Screenshot from 2026-04-02 23-38-35" src="https://github.com/user-attachments/assets/513dc269-5c56-4ed3-8db1-b3426bc93aea" />
