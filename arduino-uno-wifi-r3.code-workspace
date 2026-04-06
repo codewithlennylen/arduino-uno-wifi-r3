@@ -19,6 +19,14 @@
       "name": "4_uno_esp8266_wifi",
       "path": "4_uno_esp8266_wifi",
     },
+    {
+      "name": "esp8266",
+      "path": "4_uno_esp8266_wifi/esp8266",
+    },
+    {
+      "name": "esp8266",
+      "path": "4_uno_esp8266/esp8266",
+    },
   ],
   "settings": {
     "ROS2.distro": "jazzy",
