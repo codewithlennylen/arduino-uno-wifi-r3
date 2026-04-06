@@ -7,6 +7,10 @@
       "name": "1_uno_blink",
       "path": "1_uno_blink",
     },
+    {
+      "name": "2_esp8266_blink",
+      "path": "2_esp8266_blink",
+    },
   ],
   "settings": {
     "ROS2.distro": "jazzy",
